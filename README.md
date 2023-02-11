@@ -1,2 +1,1 @@
-# Learn-Data-Sicence-
-Assignment of Machine Learning in Python  
+Using the different algorithms like decision tree , linear regression , logistic regression , SVM , KNN to study the differnt data sets to explore the models , visulaise and optimise with use of hypermeters.
